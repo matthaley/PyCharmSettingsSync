@@ -1,5 +1,24 @@
 <application>
-  <component name="RefactoringSettings">
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\haleymt\Git Code\DiQ\ora\OrderProjection\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\haleymt\Git Code\DiQ\ora\ora-order-projection\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\haleymt\Git Code\OrderProjection\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\haleymt\Git Code\PyCharm\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\haleymt\Git Code\DiQ\ora\OrderProjection\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\haleymt\Git Code\DiQ\ora\ora-order-projection\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\haleymt\Git Code\DiQ\ora\OrderProjection\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\haleymt\Git Code\DiQ\ora\ora-order-projection\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
   </component>
 </application>
