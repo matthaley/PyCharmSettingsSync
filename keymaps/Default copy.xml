@@ -1,13 +1,25 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSplitLine" />
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
   <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
