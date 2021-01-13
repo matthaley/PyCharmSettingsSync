@@ -35,5 +35,8 @@
   <action id="SendEOF" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
+  <action id="com.jetbrains.python.console.RunPythonOrDebugConsoleAction">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
