@@ -10,6 +10,12 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl delete" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -22,6 +28,7 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="JumpToLastChange" />
   <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -33,6 +40,7 @@
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="Unwrap" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="com.jetbrains.python.console.RunPythonOrDebugConsoleAction">
