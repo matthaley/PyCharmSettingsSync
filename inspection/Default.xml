@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="20">
+        <list size="21">
           <item index="0" class="java.lang.String" itemvalue="atari-py" />
           <item index="1" class="java.lang.String" itemvalue="tensorflow" />
           <item index="2" class="java.lang.String" itemvalue="tensorboard" />
@@ -24,6 +24,7 @@
           <item index="17" class="java.lang.String" itemvalue="lxml" />
           <item index="18" class="java.lang.String" itemvalue="jupyterlab" />
           <item index="19" class="java.lang.String" itemvalue="ipywidgets" />
+          <item index="20" class="java.lang.String" itemvalue="pytest" />
         </list>
       </value>
     </option>
