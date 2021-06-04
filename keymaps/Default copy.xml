@@ -38,6 +38,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="PyExecuteCellAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="Unwrap" />
