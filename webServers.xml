@@ -1,0 +1,33 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eba59e2a-fd29-4314-b46c-172b9f07d071" name="amcs\haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="5accfa75-c623-4449-a369-568bac842975" sshConfig="amcs\haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="eba59e2a-fd29-4314-b46c-172b9f07d071" name="amcs\haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="5accfa75-c623-4449-a369-568bac842975" sshConfig="amcs\haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="eba59e2a-fd29-4314-b46c-172b9f07d071" name="amcs\haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="5accfa75-c623-4449-a369-568bac842975" sshConfig="amcs\haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="eba59e2a-fd29-4314-b46c-172b9f07d071" name="amcs\haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="5accfa75-c623-4449-a369-568bac842975" sshConfig="amcs\haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="eba59e2a-fd29-4314-b46c-172b9f07d071" name="amcs\haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="5accfa75-c623-4449-a369-568bac842975" sshConfig="amcs\haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="eba59e2a-fd29-4314-b46c-172b9f07d071" name="amcs\haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="5accfa75-c623-4449-a369-568bac842975" sshConfig="amcs\haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="eba59e2a-fd29-4314-b46c-172b9f07d071" name="amcs\haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="5accfa75-c623-4449-a369-568bac842975" sshConfig="amcs\haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="eba59e2a-fd29-4314-b46c-172b9f07d071" name="amcs\haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="5accfa75-c623-4449-a369-568bac842975" sshConfig="amcs\haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+      <webServer id="e5a2bc9f-5836-4db9-8315-aa7103758dee" name="haleymt@34.127.43.168:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="a7100c4f-cbf4-4883-94ca-a43925acf2a7" sshConfig="haleymt@34.127.43.168:22 key" keyPair="true" />
+      </webServer>
+    </option>
+  </component>
+</application>
