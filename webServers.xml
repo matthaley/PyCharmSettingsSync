@@ -4,9 +4,6 @@
       <webServer id="fab0f35c-12e2-4cfe-a8ec-369a16109402" name="jupyter@34.127.43.168:22" url="http:///">
         <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="3ba25063-c3c3-4987-8fdf-9c2770c2dfbc" sshConfig="jupyter@34.127.43.168:22 key" keyPair="true" />
       </webServer>
-      <webServer id="a2ba5e62-09f5-407d-ac4f-3f2fc71d61ce" name="jupyter@34.127.43.168:22 (2)" url="http:///">
-        <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="3ba25063-c3c3-4987-8fdf-9c2770c2dfbc" sshConfig="jupyter@34.127.43.168:22 key" keyPair="true" />
-      </webServer>
     </option>
   </component>
 </application>
