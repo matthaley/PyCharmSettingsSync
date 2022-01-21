@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="fab0f35c-12e2-4cfe-a8ec-369a16109402" name="jupyter@34.127.43.168:22" url="http:///">
+      <webServer id="5d7c2ac7-0b81-48ae-a48b-7eef2954082c" name="jupyter@34.127.43.168:22" url="http:///">
         <fileTransfer accessType="SFTP" host="34.127.43.168" port="22" sshConfigId="3ba25063-c3c3-4987-8fdf-9c2770c2dfbc" sshConfig="jupyter@34.127.43.168:22 key" keyPair="true" />
       </webServer>
     </option>
