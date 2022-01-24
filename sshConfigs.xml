@@ -1,9 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="34.127.43.168" id="5accfa75-c623-4449-a369-568bac842975" keyPath="C:\Users\haleymt\.ssh\temp_key.pub" port="22" nameFormat="DESCRIPTIVE" username="amcs\haleymt" />
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="34.127.43.168" id="a7100c4f-cbf4-4883-94ca-a43925acf2a7" keyPath="C:\Users\haleymt\.ssh\temp_key.pub" port="22" nameFormat="DESCRIPTIVE" username="haleymt" />
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="34.127.43.168" id="3ba25063-c3c3-4987-8fdf-9c2770c2dfbc" keyPath="C:\Users\haleymt\.ssh\temp_key.pub" port="22" nameFormat="DESCRIPTIVE" username="jupyter" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="34.83.150.255" id="3ba25063-c3c3-4987-8fdf-9c2770c2dfbc" keyPath="C:\Users\haleymt\.ssh\temp_key.pub" port="22" nameFormat="DESCRIPTIVE" username="jupyter" />
     </configs>
   </component>
 </application>
