@@ -2,10 +2,10 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="01e1809e-164e-4415-a1b8-83d84d776aa5" name="haleymt@10.200.65.94:22" url="http:///">
-        <fileTransfer accessType="SFTP" sshConfigId="06fb9c4b-41d9-4664-86c8-82ad89801645" sshConfig="haleymt@10.200.65.94:22 password" />
+        <fileTransfer accessType="SFTP" host="10.200.65.94" port="22" sshConfigId="edb7ac66-10b2-45fc-81af-c676006c01fb" sshConfig="haleymt@10.200.65.94:22 password" />
       </webServer>
       <webServer id="01e1809e-164e-4415-a1b8-83d84d776aa5" name="haleymt@10.200.65.94:22 (1)" url="http:///">
-        <fileTransfer rootFolder="/home/haleymt/ray" accessType="SFTP" sshConfigId="06fb9c4b-41d9-4664-86c8-82ad89801645" sshConfig="haleymt@10.200.65.94:22 password" />
+        <fileTransfer rootFolder="/home/haleymt/ray" accessType="SFTP" host="10.200.65.94" port="22" sshConfigId="edb7ac66-10b2-45fc-81af-c676006c01fb" sshConfig="haleymt@10.200.65.94:22 password" />
       </webServer>
     </option>
   </component>
