@@ -28,5 +28,8 @@
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="com.jetbrains.python.console.RunPythonOrDebugConsoleAction">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
