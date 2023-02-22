@@ -1,7 +1,12 @@
 <keymap version="1" name="Windows copy" parent="$default">
   <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
   <action id="Console.TableResult.NextPage" />
   <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Docker.RemoteServers.StartComposeService" />
+  <action id="Docker.RemoteServers.StartContainer" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -11,20 +16,30 @@
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
+  <action id="EditorSplitLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="NextOccurence" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
+  <action id="NotebookRunCellAction" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="PyExecuteCellAction" />
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SendEOF" />
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ViewSource" />
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
