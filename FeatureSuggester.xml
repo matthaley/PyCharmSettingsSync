@@ -2,7 +2,6 @@
   <component name="FeatureSuggesterSettings">
     <option name="workingDays">
       <list>
-        <option value="1668526163448" />
         <option value="1669750363569" />
         <option value="1669836797649" />
         <option value="1669927553703" />
@@ -32,6 +31,7 @@
         <option value="1677269257303" />
         <option value="1677508682362" />
         <option value="1677601137664" />
+        <option value="1677700160746" />
       </list>
     </option>
   </component>
